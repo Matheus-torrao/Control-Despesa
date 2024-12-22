@@ -1,0 +1,20 @@
+[
+    {
+        "nome_usuario": "JUDAS",
+        "Tipo de Despesa": "NATAL",
+        "Valor da Despesa": 500.0,
+        "Data da Despesa": "25/12"
+    },
+    {
+        "nome_usuario": "FULANO",
+        "Tipo de Despesa": "LUZ",
+        "Valor da Despesa": 300.0,
+        "Data da Despesa": "20/12"
+    },
+    {
+        "nome_usuario": "MATHEUS",
+        "Tipo de Despesa": "LUZ",
+        "Valor da Despesa": 300.0,
+        "Data da Despesa": "23/09"
+    }
+]
