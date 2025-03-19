@@ -16,5 +16,11 @@
         "Tipo de Despesa": "LUZ",
         "Valor da Despesa": 300.0,
         "Data da Despesa": "23/09"
+    },
+    {
+        "nome_usuario": "FULANO",
+        "Tipo de Despesa": "PC GAMER",
+        "Valor da Despesa": 2000.0,
+        "Data da Despesa": "25/09"
     }
 ]
